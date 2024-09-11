@@ -1,0 +1,14 @@
+{
+    "Einkommen": {},
+    "Gehalt": {
+        "parent": "Einkommen",
+        "patterns": [
+            {
+                "purpose": "Gehalt"
+            },
+            {
+                "purpose": "Lohn"
+            }
+        ]
+    }
+}
